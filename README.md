@@ -1,2 +1,2 @@
 # Verduras
-Esta pagina contiene información sobre la Zanahoria
+Pagina web sencilla sobre la verdura Zanahoria"*Verdura"
